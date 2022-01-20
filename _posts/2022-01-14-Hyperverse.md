@@ -7,6 +7,4 @@ The HyperVerse is a virtual metaverse comprising of millions of planets. In the 
 
 ![Hyperverse](/blog/images/upload/screenshot1.png)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+For information, visit [Hyperverse Official Website](https://thehyperverse.net/).
