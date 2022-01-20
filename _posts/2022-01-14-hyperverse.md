@@ -7,4 +7,4 @@ The HyperVerse is a virtual metaverse comprising of millions of planets. In the 
 
 ![Hyperverse](/blog/images/upload/screenshot1.png)
 
-For information, visit [Hyperverse Official Website](https://thehyperverse.net/).
+For more information, visit [Hyperverse Official Website](https://thehyperverse.net/).
