@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/channel/UCnTO6325rFwl8-NW9gSZeAw
+  youtube: channel/UCnTO6325rFwl8-NW9gSZeAw
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
