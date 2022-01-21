@@ -12,7 +12,7 @@ So to find a way around it, we decided to build an app that checks the status up
 ![Hyperverse](/blog/images/upload/post1/1.png)
 
 These are the following steps:
-1. Goto [this link] (https://hypercommunity.github.io/). When browsing via Google Chrome, you will be prompted to install the app. If you do not see the prompt, you can simply tap on the three dots on the top right corner of your browser and tap on "Add to Homescreen" to install the app.
+1. Goto [this link](https://hypercommunity.github.io/) or you can also search "check hyperverse" on Google search. When browsing via Google Chrome, you will be prompted to install the app. If you do not see the prompt, you can simply tap on the three dots on the top right corner of your browser and tap on "Add to Homescreen" to install the app.
 2. Then simply tap on "Click Status". If it redirects to the official Hyperverse Login page (h5.thehyperverse.net), then you do not need to connect via a VPN. You can simply log in and get into the backoffice straight without any problems.
 3. If you see the message "Not working, please use VPN to login", that means you have to activate VPN. Just activate your VPN and again tap on "Check Status". If it still throws the same message, switch to another country VPN. Do this until it redirects to the backoffice login page. 
 
