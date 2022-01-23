@@ -3,7 +3,7 @@ layout: post
 title:  "How to join Hyperverse"
 ---
 
-[Hyperverse](https://thehyperverse.net/){:target="_blank"} is a great earning platform run by the [HyperTech Group](https://www.hypertechgrp.com/){:target="_blank"}. Joining this platform is super easy, just follow the instructions below:
+[Hyperverse](https://thehyperverse.net/){:target="_blank"} is a great earning platform run by the [HyperTech Group](https://www.hypertechgrp.com/){:target="_blank"}. Whatever amount you inject into Hyperverse platform, you will get a 3x return in just 600 days! So what are you waiting for??? Joining this platform is super easy, just follow the instructions below:
 
 1\. First to goto the register page, [click here](https://h5.thehyperverse.net/#/pages/login/register){:target="_blank"}. You'll get this page:
 
