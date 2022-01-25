@@ -27,13 +27,14 @@ The HyperVerse team builds an online virtual world where users can explore, buil
 of HVT is unlocked
 + The marketplace is officially released and users are allowed
 to trade NFTs inside
-### Oct - Dec 2022 Q4
+
+### Oct - Dec 2022
 
 + The official version of HyperVerse is released
 + Release Jurassic Planet
 + Release workshops where users can craft their own NFTs
 
-### Jan - Mar 2023 Q1
+### Jan - Mar 2023
 
 + Release Merlin's Fortress
 + Start to develop HyperVerse AR and VR functions
@@ -41,40 +42,41 @@ to trade NFTs inside
 + 20% of HVT is open to be mined via PoST
 + Allow users to experience multi-planet life via clone characters
 
-### Apr - Jun 2023 Q2
+### Apr - Jun 2023
 
 + Release Warzone
 + New function: customizing companion characters
 + Begin to build V-DAO community smart contract structure
 
-### Jul - Sep 2023 Q3
+### Jul - Sep 2023
 
 + Release Asgard
 + V-DAO community governance system enters alpha testing
 + 20% of HVT is open to be mined via PoB
 + 10% of HVT is open to be mined via liquidity mining
-### Oct - Dec 2023 Q4
+### Oct - Dec 2023
 
 + Release Wonderland
 + AR and VR functions enter alpha testing
 + V-DAO community governance system goes live
 
-### Jan - Mar 2024 Q1
+### Jan - Mar 2024
 
 + Release Tomb of Stars
 + Release V-DAO community governance system
 
-### Apr - Jun 2024 Q2
+### Apr - Jun 2024
 
 + AR and VR functions enter beta testing
 + Space Expedition function enters alpha testing
 + The function of founding companies goes live
 
-### Jul - Sep 2024 Q3
+### Jul - Sep 2024
 
 + New areas with numerous unknown planets in the HyperVerse are opened
 + Users are able to form space expeditions and explore the newly opened areas
-### Oct - Dec 2024 Q4
+
+### Oct - Dec 2024
 
 + Uses are allowed to decide the future of the HyperVerse via V-DAO community
 
