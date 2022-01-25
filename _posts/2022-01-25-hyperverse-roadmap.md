@@ -86,3 +86,7 @@ to trade NFTs inside
 
 ### The second half of 2025
 + Corporate with business partners to convert customized NFTs into the real world
+
+## Summary
+
+HyperVerse is a decentralized metaverse satisfying social and financial needs for all people around the globe. People have the opportunity to live an exciting life, where they can develop, trade and create digital assets in a futuristic virtual world. Furthermore, users have the chance to grow their real-world wealth by exploring and mastering the intricate and diverse universe, that is, the HyperVerse.
