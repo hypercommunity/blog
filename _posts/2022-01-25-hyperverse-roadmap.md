@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to join Hyperverse"
+title:  "Hyperverse Roadmap - 5 years plan"
 ---
 
 ## Overview
