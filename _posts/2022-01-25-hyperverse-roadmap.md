@@ -54,6 +54,7 @@ to trade NFTs inside
 + V-DAO community governance system enters alpha testing
 + 20% of HVT is open to be mined via PoB
 + 10% of HVT is open to be mined via liquidity mining
+
 ### Oct - Dec 2023
 
 + Release Wonderland
