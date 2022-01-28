@@ -5,7 +5,7 @@ title:  "How to rebuy on Hyperverse"
 
 Hyperverse Rebuy is one of the greatest features to re-invest your daily rewards and get the maximum benefit out of the Hyperverse membership plan. Today we will show you a 5-step simple process to rebuy on Hyperverse. 
 
-Please note that your rewards must be 50 or more to perform a Hyperverse rebuy. To check your rewards simply do this:
+Please note that your rewards must be 50 HU or more to perform a Hyperverse rebuy. To check your rewards simply do this:
 
 ![Hyperverse](/blog/images/upload/post4/1.png)
 
