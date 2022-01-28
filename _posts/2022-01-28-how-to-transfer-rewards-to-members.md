@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to rebuy on Hyperverse"
+title:  "How to transfer Hyperverse Rewards to another account"
 ---
 
 Today, let's learn how to transfer your rewards to another Hyperverse account. This is useful especially while purchasing a new membership plan on another Hyperverse account (Please note only 50% of the total can be utilized to buy these membership plans. For e.g only 150 HU can be utilized to buy a 300 HU membership package, the Remaining 150 HU should be deposited).
