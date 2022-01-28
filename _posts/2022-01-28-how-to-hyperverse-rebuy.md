@@ -9,7 +9,7 @@ Please note that your rewards must be 50 or more to perform a Hyperverse rebuy. 
 
 ![Hyperverse](/blog/images/upload/post4/1.png)
 
-5 step Hyperverse Rebuy process:
+5-step Hyperverse Rebuy process:
 
 1\. Login and then tap on "Membership"
 
